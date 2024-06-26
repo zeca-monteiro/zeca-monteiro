@@ -4,7 +4,7 @@
 
 ### My name is Ezequiel, but you can call me Zeca
 
-<br><b>👨🏻‍💻 Licenses & certifications</b></br>
-- Database and SQL (Udemy and Felipe Mafra, 60 hours) - in progress
-- JavaScript (Curso em Vídeo, 40 hours) - 2023
-- Algorithm and Logic Programming (Curso em Vídeo, 40 hours) - 2023
+<br><b>👨🏻‍💻 About me</b></br>
+- Bachelor of Organizational Communication (UTFPR)
+- Systems Analysis and Development student (UP)
+- Systems development intern (Bradesco)
